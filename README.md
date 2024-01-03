@@ -10,3 +10,6 @@ Each branch is a different chapter of the documentation.
 - [Feature Module](https://pest.lucode.ar/docs/learn/haunted-house-api/2-feature-module): [`/tree/2-feature-module`](https://github.com/lucas-labs/pest-learn/tree/2-feature-module)
 - [Service](https://pest.lucode.ar/docs/learn/haunted-house-api/3-service): [`/tree/3-service`](https://github.com/lucas-labs/pest-learn/tree/3-service)
 - [Controller](https://pest.lucode.ar/docs/learn/haunted-house-api/4-controller): [`/tree/4-controller`](https://github.com/lucas-labs/pest-learn/tree/4-controller)
+
+
+This means that the final code for the documentation is in the [`/tree/4-controller`](https://github.com/lucas-labs/pest-learn/tree/4-controller) branch.
